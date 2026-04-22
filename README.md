@@ -13,4 +13,4 @@ This project is a cricket analytics dashboard built using Python, SQLite, and St
 - CRUD Operations
 
 ## ⚙️ How to Run
-streamlit run mainn.py
+streamlit run main.py
