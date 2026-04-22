@@ -1,7 +1,7 @@
 # Cricbuzz LiveStats Dashboard
 
 ## 🔗 Live Dashboard Link
-(Add your Streamlit link here later)
+[(Add your Streamlit link here later)](https://cricbuzz-livestats-btyfcjkk5zykby36wdanrp.streamlit.app/)
 
 ## 📌 Project Overview
 This project is a cricket analytics dashboard built using Python, SQLite, and Streamlit.
